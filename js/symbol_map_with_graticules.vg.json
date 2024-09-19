@@ -7,7 +7,7 @@
     "layer": [
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/test.topojson",
+          "url": "https://raw.githubusercontent.com/rcra0006/homeworkweek9/blob/main/js/test.topojson",
           "format": {"type": "topojson", "feature": "test"}
         },
         "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
