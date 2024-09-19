@@ -11,8 +11,8 @@
         "format": {"type": "topojson", "feature": "test"}
       },
       "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
-    },
-    {
+    }
+    /*{
       "data": {
         "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/data/earthquake.csv"
       },
@@ -33,6 +33,6 @@
           "scale": {"scheme": "reds"}
         }
       }
-    }
+    }*/
   ]
 }
